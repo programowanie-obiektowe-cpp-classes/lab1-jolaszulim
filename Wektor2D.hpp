@@ -1,6 +1,6 @@
 class Wektor2D
 {
-    public:
+public:
 
 	Wektor2D() {};
 
